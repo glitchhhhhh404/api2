@@ -1,7 +1,7 @@
 <?php
 
 
-// api by haika //
+// api by glitch404 //
 
 error_reporting(0);
 
